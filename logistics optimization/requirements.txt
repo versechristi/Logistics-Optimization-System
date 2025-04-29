@@ -1,0 +1,10 @@
+# Project dependencies for Logistics Optimization System
+# Generated based on code analysis and README.md
+
+folium
+matplotlib
+numpy
+pandas
+
+# Note: tkinter, configparser, webbrowser, json, textwrap, math, random, copy, time, os, sys, traceback
+# are part of Python's standard library and do not need to be listed here.
